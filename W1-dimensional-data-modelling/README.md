@@ -3,7 +3,7 @@ This repo summarizes the first week of our Data Engineering Bootcamp on Dimensio
 
 - Design scalable data models using dimensions, SCDs, and graph structures
 - Build reliable pipelines with idempotency and smart schema design
-- Optimize performance with efficient modeling patterns like cumulative tables
+- Optimize performance with efficient modeling patterns like cumulative tables.
 ---
 
 ## **Day 1: Dimensional Data Modeling Complex Data Type and Cumulation Day**
